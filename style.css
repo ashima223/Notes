@@ -1,0 +1,26 @@
+body, html {
+    height: 100%;
+  }
+  
+  .bg {
+    /* The image used */
+    background-image: url("ladywriter55istock-648804148.jpeg");
+  
+    /* Full height */
+    height: 100%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+
+.card{
+    background-color: papayawhip;
+}
+
+.card-body{
+    background-color: papayawhip;
+}
+
